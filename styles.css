@@ -1,1 +1,41 @@
 /* Write your CSS here! */
+div {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+  }
+
+p {color:rgb(0, 32, 128); font-size:24;}
+
+body {
+    margin: 8px;
+    display: block;
+  }
+
+
+
+  h2 {
+    background-color: rgb(135, 206, 250);
+  }
+
+  h1 {
+    background-color: rgb(221, 160, 207);
+    text-align: center;
+  }
+
+  .funParagraph {
+    background-color: rgb(97, 140, 95);
+    padding: 4px;
+  }
+
+  footer {
+    text-align: center;
+    padding: 4px;
+    background-color: rgb(122, 215, 233);
+    
+  }
+
+  #mainHeading {
+    background-color: rgb(255, 0, 0);
+  }
